@@ -1,4 +1,4 @@
-# fcc-Palindrome ( 🌐 version ) 
+# fcc-Palindrome-Checker ( 🌐 version ) 
 
 🔗 **Live Website**: []()
 
