@@ -1,6 +1,6 @@
 # fcc-Palindrome-Checker ( 🌐 version ) 
 
-🔗 **Live Website**: []()
+🔗 **Live Website**: [https://snoobydoo.github.io/fcc-Palindrome-Checker/](https://snoobydoo.github.io/fcc-Palindrome-Checker/)
 
 > ✨ *In this project, I made some custom modifications to the original instructions to achieve a design that reflects my personal style and preferences.*
 
